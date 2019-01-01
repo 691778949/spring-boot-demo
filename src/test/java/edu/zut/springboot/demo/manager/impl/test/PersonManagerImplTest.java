@@ -1,7 +1,6 @@
 package edu.zut.springboot.demo.manager.impl.test;
 
 import edu.zut.springboot.demo.TestApplication;
-import edu.zut.springboot.demo.config.JpaConfiguration;
 import edu.zut.springboot.demo.domain.Person;
 import edu.zut.springboot.demo.service.PersonManager;
 import org.junit.Test;
